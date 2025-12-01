@@ -1,0 +1,2 @@
+task_id	name	status	exit	realtime	%cpu	rss
+1	RETROSPECTIVE:PREPARE_RETROSPECTIVE_SIMULATION (merck_2016.screen)	COMPLETED	0	2m 41s	100.7%	1.4 GB
